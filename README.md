@@ -13,3 +13,12 @@ Braden Alexander
 ## Map Coordinate Basics
 
 - [Understanding map coordinates](https://github.com/FactoryReset51/gis-project-portfolio-geo441-541b/blob/main/map-coordinate-basics/understanding_coordinates.ipynb)
+
+
+## Raster Data Analysis
+- [Raster Data Analysis](https://github.com/FactoryReset51/gis-project-portfolio-geo441-541b/blob/main/raster-data-analysis/RasterDataAnalysis.ipynb)
+- [Band Composition Landsat](https://github.com/FactoryReset51/gis-project-portfolio-geo441-541b/blob/main/raster-data-analysis/band_composition_for_landsat.ipynb)
+
+
+##Spatial Analysis
+- [Spatial Analysis For Vector Data](https://github.com/FactoryReset51/gis-project-portfolio-geo441-541b/blob/main/SpatialAnalysis/SpatialAnalysis_for_VectorData.ipynb)
