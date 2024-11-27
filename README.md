@@ -21,6 +21,7 @@ Braden Alexander
 
 ## Spatial Analysis
 - [Spatial Analysis For Vector Data](https://github.com/FactoryReset51/gis-project-portfolio-geo441-541b/blob/main/SpatialAnalysis/SpatialAnalysis_for_VectorData.ipynb)
+- [Spatial Analysis of US Census Data](https://github.com/FactoryReset51/gis-project-portfolio-geo441-541b/blob/main/SpatialAnalysis/US_Census_Data_Spatial_Analysis.ipynb)
 
 ## Web-Based Mapping
 - [Web App](https://miamioh.maps.arcgis.com/apps/instant/sidebar/index.html?appid=206dc097fae04c55bf8cdc6dfdd932da)
