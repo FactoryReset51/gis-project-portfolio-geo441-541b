@@ -19,7 +19,7 @@ Braden Alexander
 
 ## Raster Data Analysis
 - [Raster Data Analysis](https://github.com/FactoryReset51/gis-project-portfolio-geo441-541b/blob/main/raster-data-analysis/RasterDataAnalysis.ipynb)
-- [Band Composition Landsat](https://github.com/FactoryReset51/gis-project-portfolio-geo441-541b/blob/main/raster-data-analysis/band_composition_for_landsat.ipynb
+- [Band Composition Landsat](https://github.com/FactoryReset51/gis-project-portfolio-geo441-541b/blob/main/raster-data-analysis/band_composition_for_landsat.ipynb)
 - [Digital Elevation and Hydrology Data](https://github.com/FactoryReset51/gis-project-portfolio-geo441-541b/blob/main/raster-data-analysis/Digital_Elevation_Hydrology_Data.ipynb)
 
 ## Spatial Analysis
